@@ -16,7 +16,7 @@ The goal of this project was to maintain the temperature of the FPGA chip on the
 ## 🛠️ Tools & Technologies
 
 - **Board**: DE1-SOC FPGA development board
-- **Languages**: Embedded C, some Verilog for board-level interface (if applicable)
+- **Languages**: Embedded C, some Verilog for board-level interface and PWM creation
 - **Hardware Components**: Temperature sensor, fan, breadboard wiring
 - **Software**: Quartus Prime, ModelSim, VS Code
 
